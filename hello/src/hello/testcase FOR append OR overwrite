@@ -1,0 +1,17 @@
+	1.Enter a file name that does not exist
+	Create new, save input content	
+	
+2.Enter a file that exists
+	Ask user if add or overwrite	
+	
+3.Enter a file that exists with overwrite option
+	Overwrite the new content, old content lost	
+	
+4.Enter a file that exists with add option	
+	Ask user if add before or after
+	
+5.Enter a file that exists, add option, before		
+	New content is saved before old content
+		
+6.Enter a file that exists, add option, after	
+	New content is appended to old content
